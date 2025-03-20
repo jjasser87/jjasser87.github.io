@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "About Me"
+title: "CV"
+permalink: /cv/
 ---
 
 # **Jasser Jasser**

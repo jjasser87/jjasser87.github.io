@@ -1,7 +1,7 @@
 title: "Jasser Jasser"
-#description: ""
+description: ""
 baseurl: ""  # the subpath of your site, e.g. /blog
-#url: "https://jjasser87.github.io"  # update with your GitHub Pages URL
+url: "https://jjasser87.github.io"  # update with your GitHub Pages URL
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one

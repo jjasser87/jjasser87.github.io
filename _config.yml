@@ -1,0 +1,5 @@
+title: "Dr. Jasser (JJ) Jasser - Data Analytics Professor"
+description: "Personal website of Dr. JJ, Professor of Data Analytics."
+baseurl: ""  # the subpath of your site, e.g. /blog
+url: "https://jjasser87.github.io"  # update with your GitHub Pages URL
+theme: jekyll-theme-cayman  # you can choose any GitHub Pages theme

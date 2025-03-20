@@ -9,4 +9,4 @@ I am **Dr. Jasser (JJ) Jasser**, a Professor of Data Analytics dedicated to adva
 
 Explore my website to learn more about my research, courses, publications, and how to get in touch.
 
-[CV]({{ site.baseurl }}/about/)
+[CV]({{ site.baseurl }}/CV/)

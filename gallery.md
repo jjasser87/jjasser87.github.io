@@ -9,4 +9,4 @@ Welcome to my gallery! Here, you can find a collection of images and visualizati
 
 ## DTA 250 - Fundamentals of Data Science and Analytics
 **This illustration was created by DALL-E 2**
-![fall23](_imgs/_ai_illustrations/_dta250/fall23.png)
+![fall23](https://github.com/jjasser87/jjasser87.github.io/blob/main/_imgs/_ai_illustrations/_dta250/fall23.png?raw=true)

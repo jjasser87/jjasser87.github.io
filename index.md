@@ -34,3 +34,10 @@ Below is a list of courses I have taught or am currently teaching:
 
 ### Books used in this course:
 - **Information Systems: A Manager's Guide to Harnessing Technology** by John Gallaugher [link](https://gallaugher.com/book/)
+
+## DTA 460 - Machine Learning
+**Description**: This course provides a comprehensive introduction to the field of machine learning, a rapidly evolving area of artificial intelligence. The course covers key concepts such as linear regression, classification, resampling methods, shrinkage approaches, tree-based methods, support vector machines, clustering, and more. The course is designed to impart a deep understanding of the statistical aspects of machine learning and how to apply these concepts using the R programming language. Emphasis is placed on practical application, with students expected to work on real-world data sets and projects to reinforce the theoretical knowledge gained. This course is ideal for those who have a basic understanding of statistics and programming and are keen to explore the exciting world of machine learning.
+
+### Books used in this course:
+- **An Introduction to Statistical Learning with Applications in R** by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani [link](https://www.statlearning.com/)
+- **Machine Learning with R - Fourth Edition** by Brett Lantz [link](https://www.oreilly.com/library/view/machine-learning-with/9781801071321/)

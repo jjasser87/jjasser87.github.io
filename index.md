@@ -15,4 +15,9 @@ Below is a list of courses I have taught or am currently teaching:
 ## DTA 250 - Fundamentals of Data Science and Analytics
 **Description**: Overview of core concepts and applications of data science and analytics. Topics include planning a quantitative study; formulating research questions; data management, preparation, and cleaning; model selection and validation; visualization; popular predictive modeling techniques; and issues of bias and ethics in data analytics. Substantial work with at least one professional data analysis package, such as SAS, Stata, or R.
 
+## Books used in this course:
+- **R for Data Science (2e)** by Hadley Wickham and Garrett Grolemund [link](https://r4ds.hadley.nz/)
+- **R for Everyone** by Jared Lander [link](https://www.jaredlander.com/r-for-everyone/)
+- **R from Scratch: An Intro to Data Analytics** by Jasser Jasser [link](https://he.kendallhunt.com/product/r-scratch-intro-data-analytics)
+
 [Course GitHub Page](https://github.com/jjasser87/DTA250Rollins)

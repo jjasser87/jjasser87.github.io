@@ -1,4 +1,4 @@
-.logo img {
-    max-width: 5px; /* adjust the value as needed */
+.site-logo img {
+    max-width: 100px !important; /* adjust the value as needed */
     height: auto;
 }

@@ -17,8 +17,8 @@ Below is a list of courses I have taught or am currently teaching:
 
 AI Illustration of this course:
 
-| ![alt text](_imgs/_ai_illustrations/_dta250/fall23.png){: style="width:300px;" } | ![alt text](_imgs/_ai_illustrations/_dta250/spring24.png){: style="width:300px;" } |
+| ![alt text]({{ "/_imgs/_ai_illustrations/_dta250/fall23.png" | relative_url }}){: style="width:300px;" } | ![alt text]({{ "/_imgs/_ai_illustrations/_dta250/spring24.png" | relative_url }}){: style="width:300px;" } |
 | --- | --- |
-| ![alt text](_imgs/_ai_illustrations/_dta250/fall24.png){: style="width:300px;" } | ![alt text](_imgs/_ai_illustrations/_dta250/spring25.png){: style="width:300px;" } |
+| ![alt text]({{ "/_imgs/_ai_illustrations/_dta250/fall24.png" | relative_url }}){: style="width:300px;" } | ![alt text]({{ "/_imgs/_ai_illustrations/_dta250/spring25.png" | relative_url }}){: style="width:300px;" } |
 
 [Course GitHub Page](https://github.com/jjasser87/DTA250Rollins)

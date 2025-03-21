@@ -1,4 +1,4 @@
-.site-logo img {
-    max-width: 100px !important; /* adjust the value as needed */
+header > img {
+    max-width: 100px !important;
     height: auto;
 }

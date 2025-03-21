@@ -6,7 +6,7 @@ permalink: /cv/
 
 # **Jasser Jasser**
 
-Orlando, FL | [jjasser@outlook.com](mailto\:jjasser@outlook.com) | **LinkedIn**: jjasser | [jjasser.com](jjasser.com)
+Orlando, FL | [jjasser@outlook.com](mailto\:jjasser@outlook.com) | **LinkedIn**: [jjasser](https://www.linkedin.com/in/jjasser/)
 
 ---
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Illuminatio"
+permalink: /illuminatio/
+---
+
 # Illuminatio
 
 This past March, I finally had the chance to experiment with [SUNO](https://suno.com). Composing music isn’t new to me; I’ve been doing it as a hobby since my college days, testing and experimenting with different Digital Audio Workstations (DAWs). I initially used [FL Studio](https://www.image-line.com), then tried [Ableton Live](https://www.ableton.com/en/) and [Cubase](https://www.steinberg.net/cubase/), but stuck with FL Studio because I found it easier to work with than the other two. After purchasing a Mac, I used [GarageBand](https://www.apple.com/mac/garageband/) alongside FL Studio. However, composing with AI is a different story, and I was eager to explore it from the perspective of collaboration rather than asking the AI the create an entire song in one shot.

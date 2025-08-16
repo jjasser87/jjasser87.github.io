@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Illuminatio"
-permalink: /illuminatio/
+permalink: /Illuminatio/
 ---
 
 # Illuminatio

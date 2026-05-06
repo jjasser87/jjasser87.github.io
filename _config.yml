@@ -11,8 +11,8 @@ nav_links:
     url: "/"
   - title: "CV"
     url: "/cv/"
-  - title: "Gallery"
-    url: "/gallery/"
+  - title: "Courses"
+    url: "/courses/"
   - title: "Illuminatio"
     url: "/Illuminatio/"
 remote_theme: pages-themes/minimal@v0.2.0

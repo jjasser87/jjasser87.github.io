@@ -110,13 +110,6 @@ Jun ’12 – May ‘14
 
 ---
 
-## **Languages**
-
-- **Arabic** – Mother tongue
-- **English** – Full professional working proficiency
-
----
-
 ## **Skills**
 
 - **Programming Languages:** Python, Julia, R, C#

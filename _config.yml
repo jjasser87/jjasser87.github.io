@@ -1,5 +1,5 @@
 title: "Jasser Jasser"
-description: "Personal Page"
+description: "Academic Page"
 #logo: "https://github.com/jjasser87/jjasser87.github.io/blob/main/_imgs/jj/JJ_logo.png?raw=true"
 baseurl: ""
 url: "https://jjasser87.github.io"
@@ -13,8 +13,6 @@ nav_links:
     url: "/cv/"
   - title: "Courses"
     url: "/courses/"
-  - title: "Illuminatio"
-    url: "/Illuminatio/"
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one

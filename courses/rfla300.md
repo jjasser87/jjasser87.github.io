@@ -10,4 +10,4 @@ Welcome to rFLA300: Data Analytics with Excel. I am excited to have you in this 
 
 ## Syllabus
 
-- [Download the syllabus PDF](/assets/syllabi/rFLA300_Data_Analytics_with_Excel_Syllabus.pdf)
+- [View the syllabus](https://versed-lyric-d11.notion.site/rFLA300-Data-Analytics-with-Excel-Syllabus-35a74eb042938000972ce29bbc1f8570)
